@@ -1,0 +1,2 @@
+Site do TypeScript
+https://www.typescriptlang.org/
